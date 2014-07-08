@@ -1,0 +1,2 @@
+node-visualstudio-azure
+=======================
