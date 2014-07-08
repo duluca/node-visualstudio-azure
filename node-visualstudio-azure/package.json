@@ -1,0 +1,10 @@
+{
+  "name": "node_visualstudio_azure",
+  "version": "0.0.0",
+  "description": "node-visualstudio-azure",
+  "main": "server.js",
+  "author": {
+    "name": "admin",
+    "email": ""
+  }
+}
